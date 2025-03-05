@@ -4,11 +4,12 @@ Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
 
-Explain what software engineering is and discuss its importance in the technology industry. Software engineering is a branch of computer science used for developing, testing and maintaining software. Below are the importance of software engineering; 
-Efficiency & Scalability – Enables the creation of robust systems that can handle large-scale operations.
-Quality & Reliability – Ensures software meets high standards, reducing bugs and security vulnerabilities.
-Cost-Effectiveness – Reduces development and maintenance costs through structured methodologies.
-Innovation & Advancement – Drives technological progress in AI, cybersecurity, cloud computing, and more.
+Explain what software engineering is and discuss its importance in the technology industry. is a branch of computer science used for developing, testing and maintaining software.
+ reliability- it ensures software performs as expected without bias especially for critical applications like healthcare ,finance. 
+ efficiency - it helps to optimize developer workflow while maintaining high quality standards.
+ scalability and flexibility - it ensures that the system can handle an increased load without affecting performance.
+ security - implement protection practice like authentication, authorization and encryption to secure users information. Identify and describe at least three key milestones in the evolution of software engineering.
+
 
 
 
@@ -72,10 +73,13 @@ Solution: engineers can adopt approaches like agile development, which emphasize
 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
-Unit Testing – Tests individual code components. (Ensures each function works as expected.)
-Integration Testing – Tests how modules interact. (Validates data flow between components.)
-System Testing – Evaluates the complete system. (Ensures software meets requirements.)
-Acceptance Testing – Confirms software meets user expectations. (Final approval before deployment.)
+ Unit tests - are close to the source of an application, They consist in testing individual methods and functions of the classes, components, or modules used by your software. - it ensures that each unit performs its intended function correctly, isolated from other components.
+ Integration tests - verify that different modules or services used by your application work well together help to ensure data flows smoothly between modules and interfaces work as expected.
+ System testing -Focus on the entire software system as a whole, including all functionalities and interactions.
+ -It help to verify that the system meets all functional and non-functional requirements, including performance, usability, and security .
+ Acceptance tests - are formal tests that verify if a system satisfies business requirements. They require the entire application to be running while testing and focus on replicating user behaviors. 
+- Whether the software meets the needs of the end-user and is ready for deployment.
+
 
 #Part 2: Introduction to AI and Prompt Engineering
 
